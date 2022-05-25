@@ -1,0 +1,16 @@
+# forecast #
+forecast/nbproject/private/
+forecast/build/
+forecast/nbbuild/
+forecast/dist/
+forecast/nbdist/
+forecast/nbactions.xml
+forecast/nb-configuration.xml
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
