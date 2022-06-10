@@ -16,6 +16,15 @@ forecast/nbdist/
 forecast/nbactions.xml
 forecast/nb-configuration.xml
 
+# serialization #
+serialization/nbproject/private/
+serialization/build/
+serialization/nbbuild/
+serialization/dist/
+serialization/nbdist/
+serialization/nbactions.xml
+serialization/nb-configuration.xml
+
 # Class Files #
 *.class
 
